@@ -1,3 +1,3 @@
 # Ayan
 My first Git repository.
-CSE student
+CSE student first year
